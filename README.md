@@ -1,7 +1,5 @@
 # Example Gym
 
-![License Badge](https://img.shields.io/badge/license-MIT-orange.svg)
-
 ## Description
 
 This is the result of following a tutorial from youtube that included a deep dive into bootstrap with more advanced design.
