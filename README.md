@@ -40,5 +40,4 @@ Email: [jasmineteters2020@gmail.com](mailto:jasmineteters2020@gmail.com)
 
 Click on gif to see live deployment or visit this [link](https://jasmineteters.github.io/example-gym/).
 
-![assets/gifOfSite.gif](https://jasmineteters.github.io/example-gym/)
-
+[![Example Gym](assets/gifOfSite.gif)](https://jasmineteters.github.io/example-gym/)
